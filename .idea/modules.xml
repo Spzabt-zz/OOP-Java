@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/car-service.iml" filepath="$PROJECT_DIR$/car-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/car-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/car-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/car-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/car-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/card-deck.iml" filepath="$PROJECT_DIR$/card-deck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/card-deck.main.iml" filepath="$PROJECT_DIR$/.idea/modules/card-deck.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/card-deck.test.iml" filepath="$PROJECT_DIR$/.idea/modules/card-deck.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-projects.iml" filepath="$PROJECT_DIR$/oop-projects.iml" />
+    </modules>
+  </component>
+</project>
